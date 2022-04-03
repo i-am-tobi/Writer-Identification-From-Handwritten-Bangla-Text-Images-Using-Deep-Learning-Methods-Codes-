@@ -16,5 +16,3 @@ Writer identification from handwritten text images is considered to be one of th
 ---------------Simple Overall Workflow---------------
 ![Screenshot from 2022-04-03 12-53-10](https://user-images.githubusercontent.com/87241726/161416500-b2ceac61-4076-4cc3-b757-57fbe9736250.png)
 
----------------An Example---------------
-![ArnabCh_2](https://user-images.githubusercontent.com/87241726/161416525-4304d41c-7ee4-4116-bdd9-602df5b89845.png) --------------->> Writer Name
